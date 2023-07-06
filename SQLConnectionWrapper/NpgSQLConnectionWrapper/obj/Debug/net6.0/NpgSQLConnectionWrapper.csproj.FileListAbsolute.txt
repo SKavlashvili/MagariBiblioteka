@@ -1,0 +1,12 @@
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\bin\Debug\net6.0\NpgSQLConnectionWrapper.deps.json
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\bin\Debug\net6.0\NpgSQLConnectionWrapper.dll
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\bin\Debug\net6.0\NpgSQLConnectionWrapper.pdb
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\NpgSQLConnectionWrapper.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\NpgSQLConnectionWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\NpgSQLConnectionWrapper.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\NpgSQLConnectionWrapper.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\NpgSQLConnectionWrapper.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\NpgSQLConnectionWrapper.dll
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\refint\NpgSQLConnectionWrapper.dll
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\NpgSQLConnectionWrapper.pdb
+C:\Users\skavlashvili\Desktop\SQLConnectionWrapper\NpgSQLConnectionWrapper\obj\Debug\net6.0\ref\NpgSQLConnectionWrapper.dll
